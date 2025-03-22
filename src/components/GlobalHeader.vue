@@ -77,7 +77,7 @@ const items = ref<MenuProps["items"]>([
     key: "others",
     label: h(
       "a",
-      { href: "http://zhh821.space3v.work", target: "_blank" },
+      { href: "https://pinyougou-shopping.vercel.app", target: "_blank" },
       "品优购"
     ),
     title: "品优购",

@@ -8,7 +8,9 @@
         <router-view />
       </a-layout-content>
       <a-layout-footer class="footer">
-        <a href="http://zhh821.space3v.work" target="_blank"> 品优购 </a>
+        <a href="https://pinyougou-shopping.vercel.app" target="_blank">
+          品优购
+        </a>
       </a-layout-footer>
     </a-layout>
   </div>
